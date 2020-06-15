@@ -1,0 +1,17 @@
+{
+  "name": "dc-token-sale",
+  "version": "1.0.0",
+  "description": "DC Token Sale ICO",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "David Hitchcock",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
